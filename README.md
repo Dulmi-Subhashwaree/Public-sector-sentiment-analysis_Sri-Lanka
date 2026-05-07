@@ -125,6 +125,13 @@ Using TF-IDF vectorization and Logistic Regression classification, the system ev
 - Economic crisis sentiment tracking
 
 ---
+## Demo Video
+
+Project demonstration videos and related materials can be accessed here:
+
+[View Demo Videos](https://drive.google.com/drive/folders/1HbTfLSImB3gkOSdrAXi-rOjJ-FwtVfiu?usp=sharing)
+
+---
 
 ## Future Improvements
 
